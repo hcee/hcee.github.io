@@ -1,0 +1,77 @@
+/*index.php css*/
+
+.site-wrapper{
+  background:
+  linear-gradient(rgb(1, 105, 136),
+  rgba(2, 103, 119, 0.58)), url(/images/vancouver-bg.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  position: relative;
+  top: 0;
+  bottom: 0;
+  height: 100vh;
+
+}
+
+.landing > div{
+  padding: 50px 0px 0px 0px;
+}
+
+
+.container-fluid.animated.slideInDown{
+  text-align: center;
+  -webkit-animation-delay: 0.5s;
+  color: white;
+
+}
+
+.container-fluid.animated.bounce {
+    text-align: center;
+  -webkit-animation-duration: 1s;
+  -webkit-animation-delay: 1s;
+  -vendor-animation-iteration-count: infinite;
+}
+
+img {
+  display: block;
+  margin: auto;
+    border-radius: 10px;
+    border: 1px solid black;
+    max-width: 200px;
+    height: 200px;
+}
+
+/*home.php css*/
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+/*body {
+  margin-bottom: 60px;
+}*/
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 40px;
+
+}
+
+.fa:hover{
+  color: #FFA500;
+}
+
+.social{
+  float: right;
+}
+
+div.content-a{
+
+}
