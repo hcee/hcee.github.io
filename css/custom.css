@@ -3,7 +3,7 @@
 .site-wrapper{
   background:
   linear-gradient(rgb(1, 105, 136),
-  rgba(2, 103, 119, 0.58)), url(/images/vancouver-bg.jpg);
+  rgba(2, 103, 119, 0.58)), url(images/vancouver-bg.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
