@@ -51,9 +51,9 @@ html {
   min-height: 100%;
 }
 
-/*body {
+body {
   margin-bottom: 60px;
-}*/
+}
 
 .footer {
   position: absolute;
@@ -73,5 +73,6 @@ html {
 }
 
 div.content-a{
-
+  margin-top: 50px;
+  height: 900px;
 }
